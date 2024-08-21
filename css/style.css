@@ -47,11 +47,11 @@ header {
 }
 
 .cta_btn {
-    background-color: blue;
+    background-color: black;
     padding: 0.5rem 1rem;
     cursor: pointer;
     border: none;
-    border-radius: 20px;
+    /* border-radius: 20px; */
     color: #fff;
 }
 
